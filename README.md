@@ -8,7 +8,6 @@
 - [What is Data Science?](#another-section)
 - [Common Algorithms](#another-section)
 - [Data Science with Python](#another-section)
-- [Data Science with R](#another-section)
 - [Beginner Challenges](#ds-challenges-for-beginners)
 - [More advanced ressources](#more-advanced-ressources)
 
@@ -20,17 +19,20 @@
 
 ### scikit-learn
 
-## Data Science with R
+## Data Science Challenges for Beginners
 
-## DS Challenges for Beginners
-
-Some easy Data Science challenges to get you started with practical application of the algorithms. Sorted by increasing complexity.
+Sorted by increasing complexity.
 
 - [Blood Donation Challenge](https://www.drivendata.org/competitions/2/warm-up-predict-blood-donations/) (Driven Data)
 - [Titanic Challenge](https://www.kaggle.com/c/titanic) (Kaggle)
 - [Water Pump Challenge](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/) (Driven Data)
 
-## More advanced ressources
+## More advanced ressources and lists
+
+- [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
+- [Data Science Python](https://github.com/ujjwalkarn/DataSciencePython)
+- [Data Science R](https://github.com/ujjwalkarn/DataScienceR)
+- [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 
 ## Contribute
 
