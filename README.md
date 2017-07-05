@@ -1,29 +1,36 @@
 # awesome-learn-datascience [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of ressources to help you get started with datascience
+> A curated list of ressources to help you get started with Data Science
 
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [What is Data Science?](#another-section)
+- [Common Algorithms](#another-section)
+- [Data Science with Python](#another-section)
+- [Data Science with R](#another-section)
+- [Beginner Challenges](#ds-challenges-for-beginners)
+- [More advanced ressources](#more-advanced-ressources)
 
+## What is Data Science?
 
-## Section
+## Common Algorithms
 
-About this section. Optional. Keep this short and focus on the list.
+## Data Science with Python
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+### scikit-learn
 
+## Data Science with R
 
-## Another Section
+## DS Challenges for Beginners
 
-### Subsection
+Some easy Data Science challenges to get you started with practical application of the algorithms. Sorted by increasing complexity.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Blood Donation Challenge](https://www.drivendata.org/competitions/2/warm-up-predict-blood-donations/) (Driven Data)
+- [Titanic Challenge](https://www.kaggle.com/c/titanic) (Kaggle)
+- [Water Pump Challenge](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/) (Driven Data)
 
+## More advanced ressources
 
 ## Contribute
 
