@@ -1,8 +1,6 @@
 # Awesome Learn Data Science [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-*A curated list of ressources to help you get started with Data Science.*
-
->This list is for those who want to know more about Data Science but are just starting out. Some prior knowledge about statistics and python-programming will come in handy.
+*A curated list of ressources for those who want to know more about Data Science but are just starting out.*
 
 ## Contents
 
@@ -19,7 +17,7 @@
 
 ## Common Algorithms and Procedures
 - [9 important DS algorithms and their implementation](https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.05-Naive-Bayes.ipynb) 
-- [Cross validation](https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.03-Hyperparameters-and-Model-Validation.ipynb)
+- [Cross validation](https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.03-Hyperparameters-and-Model-Validation.ipynb) Evaluate the performace of your algorithm / model
 - [Feature engineering](https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.04-Feature-Engineering.ipynb)
 - [Very scientific introduction to 10 important DS algorithms](http://www.cs.umd.edu/%7Esamir/498/10Algorithms-08.pdf) (pdf)
 - [Model ensemble: explanation](https://www.analyticsvidhya.com/blog/2017/02/introduction-to-ensembling-along-with-implementation-in-r/)
@@ -50,7 +48,7 @@ This list covers only Python, as many are already familiar with this language. [
 - [Introduction to pandas](http://www.synesthesiam.com/posts/an-introduction-to-pandas.html)
 - [DataCamp pandas foundations](https://www.datacamp.com/courses/pandas-foundations) Paid course, but 30 free days upon account creation (enough to complete course)
 
-### Various helpful resources
+### Various other helpful tools and ressources
 - [Template folder structure for organizing DS projects](https://github.com/drivendata/cookiecutter-data-science)
 - [Anaconda python distribution](https://www.continuum.io/downloads) Contains most of the important python packages for Data Science.
 
