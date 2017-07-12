@@ -6,11 +6,11 @@ No previous knowledge required but some Python and statistics basics will come i
 
 ## Contents
 
-- [What is Data Science?](#another-section)
-- [Common Algorithms and Procedures](#another-section)
-- [Data Science with Python](#another-section)
-- [Beginner Challenges](#ds-challenges-for-beginners)
-- [More advanced ressources](#more-advanced-ressources)
+- [What is Data Science?](#what-is-data-science)
+- [Common Algorithms and Procedures](#common-algorithms-and-procedures)
+- [Data Science using Python](#data-science-using-python)
+- [Data Science Challenges for Beginners](#data-science-challenges-for-beginners)
+- [More advanced ressources and lists](#more-advanced-ressources-and-lists)
 
 ## What is Data Science?
 
