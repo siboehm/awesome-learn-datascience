@@ -39,13 +39,14 @@ This list covers only Python, as many are already familiar with this language. [
 ### numpy
 [numpy](http://www.numpy.org/) is a Python library which provides large multidimensional arrays and fast mathematical operations on them.
 
-- [Official numpy quickstart](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html)
+- [Numpy tutorial on DataCamp](https://www.datacamp.com/community/tutorials/python-numpy-tutorial#gs.h3DvLnk)
 
 ### pandas
 [pandas](http://pandas.pydata.org/index.html) provides efficient data structures and analysis tools for Python. It is build on top of numpy.
 
 - [Introduction to pandas](http://www.synesthesiam.com/posts/an-introduction-to-pandas.html)
 - [DataCamp pandas foundations](https://www.datacamp.com/courses/pandas-foundations) Paid course, but 30 free days upon account creation (enough to complete course)
+- [Pandas cheatsheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf) Quick overview over the most important functions
 
 ### scikit-learn
 [scikit-learn](http://scikit-learn.org/stable/) is the most common library for Machine Learning and Data Science in Python.
