@@ -60,6 +60,8 @@ This list covers only Python, as many are already familiar with this language. [
 
 - [Downloading and running first Jupyter notebook](https://jupyter.org/install.html)
 - [Example notebook for data exploration](https://www.kaggle.com/sudalairajkumar/simple-exploration-notebook-instacart)
+- [Seaborn data visualization tutorial](https://elitedatascience.com/python-seaborn-tutorial) Plot-library that works great with jupyter
+
 
 ### Various other helpful tools and ressources
 
