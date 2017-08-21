@@ -2,7 +2,7 @@
 
 *If you want to know more about Data Science but don't know where to start this list is for you!* :chart_with_upwards_trend:
 
-No previous knowledge required although some Python and statistics basics will come in handy.
+No previous knowledge required but some Python and statistics basics will come in handy.
 
 ## Contents
 
@@ -10,7 +10,7 @@ No previous knowledge required although some Python and statistics basics will c
 - [Common Algorithms and Procedures](#common-algorithms-and-procedures)
 - [Data Science using Python](#data-science-using-python)
 - [Data Science Challenges for Beginners](#data-science-challenges-for-beginners)
-- [More advanced resources and lists](#more-advanced-ressources-and-lists)
+- [More advanced resources and lists](#more-advanced-resources-and-lists)
 
 ## What is Data Science?
 
@@ -54,7 +54,7 @@ This list covers only Python, as many are already familiar with this language. [
 - [Scikit-learn complete user guide](http://scikit-learn.org/stable/user_guide.html)
 - [Model ensemble: Implementation in Python](http://machinelearningmastery.com/ensemble-machine-learning-algorithms-python-scikit-learn/)
 
-### Jupyter Notebooks
+### Jupyter Notebook
 [Jupyter Notebook](https://jupyter.org/) is a web application for easy data visualisation and code presentation.
 
 - [Downloading and running first Jupyter notebook](https://jupyter.org/install.html)
@@ -62,10 +62,12 @@ This list covers only Python, as many are already familiar with this language. [
 - [Seaborn data visualization tutorial](https://elitedatascience.com/python-seaborn-tutorial) Plot library that works great with Jupyter
 
 
-### Various other helpful tools and ressources
+### Various other helpful tools and resources
 
 - [Template folder structure for organizing Data Science projects](https://github.com/drivendata/cookiecutter-data-science)
-- [Anaconda Python distribution](https://www.continuum.io/downloads) Contains most of the important Python packages for Data Science.
+- [Anaconda Python distribution](https://www.continuum.io/downloads) Contains most of the important Python packages for Data Science
+- [LightGBM gradient boosting framework](https://github.com/Microsoft/LightGBM) Successfully used in many Kaggle challenges
+- [Amazon AWS](https://aws.amazon.com/) Rent cloud servers for more timeconsuming calculations (r4.xlarge server is a good place to start)
 
 
 ## Data Science Challenges for Beginners
