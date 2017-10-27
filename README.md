@@ -2,7 +2,7 @@
 
 *If you want to know more about Data Science but don't know where to start this list is for you!* :chart_with_upwards_trend:
 
-No previous knowledge required but some Python and statistics basics will come in handy.
+No previous knowledge required but Python and statistics basics will definitely come in handy. These ressources have been used successfully for many beginners at my local Data Science student group [ML-KA](http://ml-ka.de/).
 
 ## Contents
 
