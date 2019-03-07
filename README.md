@@ -46,6 +46,11 @@ This list covers only Python, as many are already familiar with this language. [
 - [DataCamp pandas foundations](https://www.datacamp.com/courses/pandas-foundations) - Paid course, but 30 free days upon account creation (enough to complete course).
 - [Pandas cheatsheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf) - Quick overview over the most important functions.
 
+### PySpark
+[PySpark](https://spark.apache.org/docs/latest/api/python/index.html) is a suite of distributed computation & analysis tools for Python.
+
+- [PySpark Cheatsheet](https://github.com/kevinschaich/pyspark-cheatsheet)
+
 ### scikit-learn
 [scikit-learn](http://scikit-learn.org/stable/) is the most common library for Machine Learning and Data Science in Python.
 
