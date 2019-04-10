@@ -60,7 +60,7 @@ This list covers only Python, as many are already familiar with this language. [
 - [Downloading and running first Jupyter notebook](https://jupyter.org/install.html)
 - [Example notebook for data exploration](https://www.kaggle.com/sudalairajkumar/simple-exploration-notebook-instacart)
 - [Seaborn data visualization tutorial](https://elitedatascience.com/python-seaborn-tutorial) - Plot library that works great with Jupyter.
-- [Deepnote](https://www.deepnote.com) - Upcoming platform providing better UI and enabling you to work online without downloading/installing Jupyter.
+- [Deepnote](https://www.deepnote.com) - Better UI & work online without downloading/installing Jupyter.
 
 
 ### Various other helpful tools and resources
