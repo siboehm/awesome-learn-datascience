@@ -16,6 +16,7 @@ No previous knowledge required but Python and statistics basics will definitely 
 
 - ['What is Data Science?' on Quora](https://www.quora.com/What-is-data-science)
 - [Explanation of important vocabulary](https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1?share=1) - Differentiation of Big Data, Machine Learning, Data Science.
+- [Data Science for Business](https://amzn.to/2voPJUi) - An introduction to Data Science and it's use as a business asset.
 
 ## Common Algorithms and Procedures
 
@@ -28,6 +29,10 @@ No previous knowledge required but Python and statistics basics will definitely 
 
 ## Data Science using Python
 This list covers only Python, as many are already familiar with this language. [Data Science tutorials using R](https://github.com/ujjwalkarn/DataScienceR).
+
+### General
+
+- [O'Reilly Data Science from Scratch](https://amzn.to/2GSjjrK) - Data processing, algorithm implentation, and visualization with example code.
 
 ### Learning Python
 
@@ -95,4 +100,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
 To the extent possible under law, Simon Böhm has waived all copyright and
-related or neighboring rights to this work.
+related or neighboring rights to this work. Disclaimer: Some of the links are affiliate links.
