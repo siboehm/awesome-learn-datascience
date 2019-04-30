@@ -4,19 +4,11 @@
 
 No previous knowledge required but Python and statistics basics will definitely come in handy. These ressources have been used successfully for many beginners at my local Data Science student group [ML-KA](http://ml-ka.de/).
 
-## Contents
-
-- [What is Data Science?](#what-is-data-science)
-- [Common Algorithms and Procedures](#common-algorithms-and-procedures)
-- [Data Science using Python](#data-science-using-python)
-- [Data Science Challenges for Beginners](#data-science-challenges-for-beginners)
-- [More advanced resources and lists](#more-advanced-resources-and-lists)
-
 ## What is Data Science?
 
 - ['What is Data Science?' on Quora](https://www.quora.com/What-is-data-science)
 - [Explanation of important vocabulary](https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1?share=1) - Differentiation of Big Data, Machine Learning, Data Science.
-- [Data Science for Business](https://amzn.to/2voPJUi) - An introduction to Data Science and it's use as a business asset.
+- [Data Science for Business (Book)](https://amzn.to/2voPJUi) - An introduction to Data Science and it's use as a business asset.
 
 ## Common Algorithms and Procedures
 
@@ -32,7 +24,8 @@ This list covers only Python, as many are already familiar with this language. [
 
 ### General
 
-- [O'Reilly Data Science from Scratch](https://amzn.to/2GSjjrK) - Data processing, algorithm implentation, and visualization with example code.
+- [O'Reilly Data Science from Scratch (Book)](https://amzn.to/2GSjjrK) - Data processing, implementation, and visualization with example code.
+- [Coursera Applied Data Science](https://www.coursera.org/specializations/data-science-python) - Online Course using Python that covers most of the relevant toolkits. 
 
 ### Learning Python
 
