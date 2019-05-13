@@ -8,7 +8,7 @@ No previous knowledge required but Python and statistics basics will definitely 
 
 - ['What is Data Science?' on Quora](https://www.quora.com/What-is-data-science)
 - [Explanation of important vocabulary](https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1?share=1) - Differentiation of Big Data, Machine Learning, Data Science.
-- [Data Science for Business (Book)](https://amzn.to/2voPJUi) - An introduction to Data Science and it's use as a business asset.
+- [Data Science for Business (Book)](https://amzn.to/2voPJUi) - An introduction to Data Science and its use as a business asset.
 
 ## Common Algorithms and Procedures
 
