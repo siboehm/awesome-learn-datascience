@@ -26,6 +26,7 @@ This list covers only Python, as many are already familiar with this language. [
 
 - [O'Reilly Data Science from Scratch (Book)](https://amzn.to/2GSjjrK) - Data processing, implementation, and visualization with example code.
 - [Coursera Applied Data Science](https://www.coursera.org/specializations/data-science-python) - Online Course using Python that covers most of the relevant toolkits. 
+- [Data Science Bookcamp (Book)](https://www.manning.com/books/data-science-bookcamp) - Learn data science with Python by building 10 real-world projects.
 
 ### Learning Python
 
