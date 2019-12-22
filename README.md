@@ -26,6 +26,7 @@ This list covers only Python, as many are already familiar with this language. [
 
 - [O'Reilly Data Science from Scratch (Book)](https://amzn.to/2GSjjrK) - Data processing, implementation, and visualization with example code.
 - [Coursera Applied Data Science](https://www.coursera.org/specializations/data-science-python) - Online Course using Python that covers most of the relevant toolkits. 
+- [Fighting Churn With Data (Book)](https://www.manning.com/books/fighting-churn-with-data) - Hands on course in applied data science in Python and SQL, taught through the use case of customer churn.
 
 ### Learning Python
 
