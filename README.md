@@ -2,7 +2,7 @@
 
 *If you want to know more about Data Science but don't know where to start this list is for you!* :chart_with_upwards_trend:
 
-No previous knowledge required but Python and statistics basics will definitely come in handy. These ressources have been used successfully for many beginners at my local Data Science student group [ML-KA](http://ml-ka.de/).
+No previous knowledge required but Python and statistics basics will definitely come in handy. These resources have been used successfully for many beginners at my local Data Science student group [ML-KA](http://ml-ka.de/).
 
 ## What is Data Science?
 
@@ -66,7 +66,7 @@ This list covers only Python, as many are already familiar with this language. [
 - [Anaconda Python distribution](https://www.continuum.io/downloads) - Contains most of the important Python packages for Data Science.
 - [Spacy](https://spacy.io/) - Open source toolkit for working with text-based data.
 - [LightGBM gradient boosting framework](https://github.com/Microsoft/LightGBM) - Successfully used in many Kaggle challenges.
-- [Amazon AWS](https://aws.amazon.com/) - Rent cloud servers for more timeconsuming calculations (r4.xlarge server is a good place to start).
+- [Amazon AWS](https://aws.amazon.com/) - Rent cloud servers for more time-consuming calculations (r4.xlarge server is a good place to start).
 
 
 ## Data Science Challenges for Beginners
