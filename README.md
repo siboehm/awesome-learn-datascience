@@ -82,6 +82,7 @@ Sorted by increasing complexity.
 - [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
 - [Data Science Python](https://github.com/ujjwalkarn/DataSciencePython)
 - [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+- [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert
 
 ## Contribute
 
