@@ -10,6 +10,7 @@ No previous knowledge required but Python and statistics basics will definitely 
 - [Explanation of important vocabulary](https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1?share=1) - Differentiation of Big Data, Machine Learning, Data Science.
 - [Data Science for Business (Book)](https://amzn.to/2voPJUi) - An introduction to Data Science and its use as a business asset.
 - [Data Science Bookcamp (Book)](https://www.manning.com/books/data-science-bookcamp) - Learn data science with Python by building five real-world projects!
+- [Regression, a Friendly Guide (Book)](https://www.manning.com/books/regression-a-friendly-guide) - A friendly, fun guide to making accurate predictions and revealing relationships in your data using linear and logistic regression.
 
 ## Common Algorithms and Procedures
 
