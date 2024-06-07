@@ -2,19 +2,20 @@
 
 *If you want to know more about Data Science but don't know where to start this list is for you!* :chart_with_upwards_trend:
 
-No previous knowledge required but Python and statistics basics will definitely come in handy. These ressources have been used successfully for many beginners at my local Data Science student group [ML-KA](http://ml-ka.de/).
+No previous knowledge is required but Python and statistics basics will definitely come in handy. These resources have been used successfully for many beginners at my local Data Science student group [ML-KA](http://ml-ka.de/).
 
 ## What is Data Science?
 
 - ['What is Data Science?' on Quora](https://www.quora.com/What-is-data-science)
 - [Explanation of important vocabulary](https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1?share=1) - Differentiation of Big Data, Machine Learning, Data Science.
 - [Data Science for Business (Book)](https://amzn.to/2voPJUi) - An introduction to Data Science and its use as a business asset.
+- [Data Science Process: A Beginner’s Comprehensive Guide](https://www.scaler.com/blog/data-science-process/) - Technical Skills for the Data Science: This emphasizes the practical skills needed throughout the data science process.
 
 ## Common Algorithms and Procedures
 
 - [Supervised vs unsupervised learning](https://stackoverflow.com/questions/1832076/what-is-the-difference-between-supervised-learning-and-unsupervised-learning) - The two most common types of Machine Learning algorithms. 
 - [9 important Data Science algorithms and their implementation](https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.05-Naive-Bayes.ipynb) 
-- [Cross validation](https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.03-Hyperparameters-and-Model-Validation.ipynb) - Evaluate the performance of your algorithm / model.
+- [Cross validation](https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.03-Hyperparameters-and-Model-Validation.ipynb) - Evaluate the performance of your algorithm/model.
 - [Feature engineering](https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.04-Feature-Engineering.ipynb) - Modifying the data to better model predictions.
 - [Scientific introduction to 10 important Data Science algorithms](http://www.cs.umd.edu/%7Esamir/498/10Algorithms-08.pdf)
 - [Model ensemble: Explanation](https://www.analyticsvidhya.com/blog/2017/02/introduction-to-ensembling-along-with-implementation-in-r/) - Combine multiple models into one for better performance.
