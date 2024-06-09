@@ -68,6 +68,8 @@ This list covers only Python, as many are already familiar with this language. [
 - [Spacy](https://spacy.io/) - Open source toolkit for working with text-based data.
 - [LightGBM gradient boosting framework](https://github.com/Microsoft/LightGBM) - Successfully used in many Kaggle challenges.
 - [Amazon AWS](https://aws.amazon.com/) - Rent cloud servers for more timeconsuming calculations (r4.xlarge server is a good place to start).
+- [Explore Data Science](https://kandi.openweaver.com/explore/data-science) - Curated list of libraries, packages, source code, cloud functions and APIs.
+
 
 
 ## Data Science Challenges for Beginners
